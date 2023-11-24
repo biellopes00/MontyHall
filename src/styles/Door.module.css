@@ -1,0 +1,14 @@
+.door{
+    display: flex;
+    flex-direction: column;
+    background-color: chocolate;
+    align-items: center;
+    padding: 15px;
+    width: 200px;
+    height: 310px;
+
+}
+.number{
+    font-size: 3rem;
+
+}
