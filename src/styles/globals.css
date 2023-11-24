@@ -1,11 +1,14 @@
-
-
 body {
   padding: 0;
   margin: 0;
   color: #fff;
   background-color: #444
 }
-*{
+
+* {
   box-sizing: border-box;
+}
+:root{
+  --area-door-height: 310px;
+  --area-door-width: 200px;
 }
